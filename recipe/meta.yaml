@@ -11,7 +11,7 @@ source:
 build:
   # autoconfiguration uses distutils to check Python version
   skip: true  # [py>=312 or win]
-  number: 1
+  number: 2
 
 requirements:
   build:
